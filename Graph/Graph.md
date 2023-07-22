@@ -146,6 +146,14 @@ DFS(Depth First Search; 깊이 우선 탐색)는 현재 정점에서 연결된 �
 <br/>
 특정 정점을 방문했는지 여부를 boolean 배열을 이용하여 체크해 나가는 방식으로 주로 탐색한다.
 
+## 그래프 자료구조 표기법
+
+1. edge list
+2. adjacent list
+3. adjacent matrix
+
+<img src = './graph.png'>
+
 ## 참고
 
 https://www.leafcats.com/77
