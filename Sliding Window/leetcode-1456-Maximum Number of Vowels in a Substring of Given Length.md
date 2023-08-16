@@ -17,7 +17,9 @@ Vowel letters in English are 'a', 'e', 'i', 'o', and 'u'.
 ### Example 1:
 
 Input: s = "abciiidef", k = 3
+<br/>
 Output: 3
+<br/>
 Explanation: The substring "iii" contains 3 vowel letters.
 
 <br/>
@@ -25,7 +27,9 @@ Explanation: The substring "iii" contains 3 vowel letters.
 ### Example 2:
 
 Input: s = "aeiou", k = 2
+<br/>
 Output: 2
+<br/>
 Explanation: Any substring of length 2 contains 2 vowels.
 
 <br/>
@@ -33,7 +37,9 @@ Explanation: Any substring of length 2 contains 2 vowels.
 ### Example 3:
 
 Input: s = "leetcode", k = 3
+<br/>
 Output: 2
+<br/>
 Explanation: "lee", "eet" and "ode" contain 2 vowels.
 
 <br/>
