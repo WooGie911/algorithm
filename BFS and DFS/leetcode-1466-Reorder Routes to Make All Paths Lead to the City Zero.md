@@ -93,8 +93,6 @@ var minReorder = function(n, connections) {
         graph[v].push(u);
         set.add(`${u}~${v}`);
     }
-    console.log(graph)
-    console.log(set)
 
     let count = 0;
 
