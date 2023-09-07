@@ -124,8 +124,6 @@ var calcEquation = function(equations, values, queries) {
     graph[denominator][numerator] = 1 / value;
   }
 
-  console.log(graph)
-
   // Step 2: Evaluate queries using DFS
   let evaluateQuery = (numerator, denominator, visited) => {
 
